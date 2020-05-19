@@ -14,7 +14,6 @@
 
 - **Diplomatic View**
     - [![](https://img.icons8.com/fluent/24/000000/markdown.png) Markdown (.md)](link)
-
     - layers:
         - page # page-index in boyig
         - uncertain

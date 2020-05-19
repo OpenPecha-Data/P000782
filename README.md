@@ -1,12 +1,5 @@
 # ༈ །།བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མ་ལོ་རྒྱུས་དང་བཅས་པ་བཞུགས།
 
-## Edit
-
-- [![](https://img.icons8.com/fluent/24/000000/edit.png) Publication](http://prose.io/#OpenPecha/P000782/)
-- [![](https://img.icons8.com/fluent/24/000000/edit.png) Diplomatic](http://prose.io/#OpenPecha/P000782/tree/diplomatic)  
-
-_Note: for large files use [FireFox](https://www.mozilla.org/)_
-
 ## Downloads
 
 - **Publication View**
@@ -25,6 +18,22 @@ _Note: for large files use [FireFox](https://www.mozilla.org/)_
     - layers:
         - page # page-index in boyig
         - uncertain
+
+## Edit Online
+
+- [![](https://img.icons8.com/fluent/24/000000/edit.png) Publication](http://prose.io/#OpenPecha/P000782/)
+- [![](https://img.icons8.com/fluent/24/000000/edit.png) Diplomatic](http://prose.io/#OpenPecha/P000782/tree/diplomatic)  
+
+_Note: for large files use [FireFox](https://www.mozilla.org/)_
+
+## Edit Offline
+
+- [Download](link) and install the OpenPecha Toolkit
+- Open CMD or Terminal
+- Create a view by typing: `<cmd command>`
+- Save and upload by typing: `<cmd command>`
+
+_Detailed tutorial [here](link)._
 
 
 ## .opf

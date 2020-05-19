@@ -1,0 +1,10 @@
+id: 0035419354be4b1098e1601e2b8cb61d
+annotation_type: index
+revision: '00001'
+annotations:
+- id: 9a4ddac37f874ebc8349248225cbe90d
+  span:
+    - vol: base/v001
+      span:
+        start: 0
+        end: 14870

@@ -8,6 +8,7 @@
 ## Downloads
 
 - **Publication View**
+    - [![](https://img.icons8.com/fluent/24/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000782/releases/download/V02/P000782-v001.txt)
     - [![](https://img.icons8.com/fluent/24/000000/markdown.png) Markdown (.md)](link)
     - [![](https://img.icons8.com/fluent/24/000000/epub.png) Epub (.epub)](link)
     - [![](https://img.icons8.com/fluent/24/000000/microsoft-word-2019.png) Word (.docx)](link)
@@ -17,7 +18,6 @@
         - correction
 
 - **Diplomatic View**
-    - [![](https://img.icons8.com/fluent/24/000000/txt.png) Plain text (.txt)](link)
     - [![](https://img.icons8.com/fluent/24/000000/markdown.png) Markdown (.md)](link)
 
     - layers:

@@ -23,7 +23,7 @@
 - [![](https://img.icons8.com/color/24/000000/edit.png) Publication view](http://prose.io/#OpenPecha/P000782/)
 - [![](https://img.icons8.com/color/24/000000/edit.png) Diplomatic view](http://prose.io/#OpenPecha/P000782/tree/diplomatic)  
 
-_[For large files use FireFox: ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
+_For large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
 
 ## Edit Offline
 
@@ -32,7 +32,7 @@ _[For large files use FireFox: ![](https://img.icons8.com/color/16/000000/firefo
 - Create a view by typing: `<cmd command>`
 - Save and upload by typing: `<cmd command>`
 
-_[Detailed tutorial: ![](https://img.icons8.com/color/16/000000/classroom.png)](link)_
+_Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](link)_
 
 
 ## .opf

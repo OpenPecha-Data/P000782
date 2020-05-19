@@ -21,7 +21,7 @@ _Note: to edit![](https://img.icons8.com/color/16/000000/edit.png) large files u
 - Create a view by typing: `<cmd command>`
 - Save and upload by typing: `<cmd command>`
 
-_Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](link)_
+_[Tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](link)_
 
 
 ## .opf
